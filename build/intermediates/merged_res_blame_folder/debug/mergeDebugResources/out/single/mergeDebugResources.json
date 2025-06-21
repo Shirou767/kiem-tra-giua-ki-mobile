@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "com.example.myfood_nnbinh.app-debug-32:/drawable_che_thai.jpg.flat",
+        "source": "com.example.myfood_nnbinh.app-main-34:/drawable/che_thai.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myfood_nnbinh.app-debug-32:/drawable_pho.jpg.flat",
+        "source": "com.example.myfood_nnbinh.app-main-34:/drawable/pho.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\layout_item_food_nnbinh.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\layout\\item_food_nnbinh.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.myfood_nnbinh.app-debug-32:/drawable_banh_xeo.jpg.flat",
+        "source": "com.example.myfood_nnbinh.app-main-34:/drawable/banh_xeo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myfood_nnbinh.app-debug-32:/drawable_sup_cua.jpg.flat",
+        "source": "com.example.myfood_nnbinh.app-main-34:/drawable/sup_cua.jpg"
+    },
+    {
+        "merged": "com.example.myfood_nnbinh.app-debug-32:/drawable_lau_thai.jpg.flat",
+        "source": "com.example.myfood_nnbinh.app-main-34:/drawable/lau_thai.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\layout_activity_login_nnbinh.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\layout\\activity_login_nnbinh.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.myfood_nnbinh.app-debug-32:/drawable_banh_cuon.jpg.flat",
+        "source": "com.example.myfood_nnbinh.app-main-34:/drawable/banh_cuon.jpg"
+    },
+    {
+        "merged": "com.example.myfood_nnbinh.app-debug-32:/layout_activity_home_nnbinh.xml.flat",
+        "source": "com.example.myfood_nnbinh.app-main-34:/layout/activity_home_nnbinh.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\drawable_bg.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.myfood_nnbinh.app-debug-32:/drawable_bun_bo.jpg.flat",
+        "source": "com.example.myfood_nnbinh.app-main-34:/drawable/bun_bo.jpg"
+    },
+    {
+        "merged": "com.example.myfood_nnbinh.app-debug-32:/drawable_goi_cuon.jpg.flat",
+        "source": "com.example.myfood_nnbinh.app-main-34:/drawable/goi_cuon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\layout_activity_food_detail_nnbinh.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\layout\\activity_food_detail_nnbinh.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\layout_item_restaurant_nnbinh.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\layout\\item_restaurant_nnbinh.xml"
+    },
+    {
+        "merged": "com.example.myfood_nnbinh.app-debug-32:/drawable_com_tam.jpg.flat",
+        "source": "com.example.myfood_nnbinh.app-main-34:/drawable/com_tam.jpg"
+    },
+    {
+        "merged": "com.example.myfood_nnbinh.app-debug-32:/layout_activity_food_detail_nnbinh.xml.flat",
+        "source": "com.example.myfood_nnbinh.app-main-34:/layout/activity_food_detail_nnbinh.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\drawable_ph.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\drawable\\ph.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\layout_activity_food_list_nnbinh.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\layout\\activity_food_list_nnbinh.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\layout_activity_register_nnbinh.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\layout\\activity_register_nnbinh.xml"
+    },
+    {
+        "merged": "com.example.myfood_nnbinh.app-debug-32:/drawable_banh_mi.jpg.flat",
+        "source": "com.example.myfood_nnbinh.app-main-34:/drawable/banh_mi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-debug-32:\\layout_activity_home_nnbinh.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.11.1\\com.example.myfood_nnbinh.app-main-34:\\layout\\activity_home_nnbinh.xml"
+    }
+]
